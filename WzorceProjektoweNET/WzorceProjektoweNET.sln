@@ -195,6 +195,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX09Decorator", "Solutions\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX14Strategy", "Solutions\EX14Strategy\EX14Strategy.csproj", "{CF5356D1-F55A-4840-9E19-C5D18F460D3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX10Composite", "Solutions\EX10Composite\EX10Composite.csproj", "{E2462090-BDEC-41F2-901B-52C8654B047C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -445,6 +447,10 @@ Global
 		{CF5356D1-F55A-4840-9E19-C5D18F460D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF5356D1-F55A-4840-9E19-C5D18F460D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF5356D1-F55A-4840-9E19-C5D18F460D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2462090-BDEC-41F2-901B-52C8654B047C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2462090-BDEC-41F2-901B-52C8654B047C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2462090-BDEC-41F2-901B-52C8654B047C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2462090-BDEC-41F2-901B-52C8654B047C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -537,6 +543,7 @@ Global
 		{215DD05E-8757-449C-8740-5D5A6A9F4773} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{41A48A22-0A3B-4640-8922-9D61852C22DF} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{CF5356D1-F55A-4840-9E19-C5D18F460D3E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{E2462090-BDEC-41F2-901B-52C8654B047C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2C805F7A-B644-4CD6-B75F-32A44C89DF02}
