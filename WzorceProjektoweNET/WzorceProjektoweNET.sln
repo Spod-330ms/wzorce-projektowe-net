@@ -199,6 +199,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX10Composite", "Solutions\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX13Observer", "Solutions\EX13Observer\EX13Observer.csproj", "{B361E7FF-EC07-42FE-8326-F797A7E2C6AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX11Flyweight", "Solutions\EX11Flyweight\EX11Flyweight.csproj", "{5DAAB8B2-763C-45D4-8C1D-856DFB084F8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -457,6 +459,10 @@ Global
 		{B361E7FF-EC07-42FE-8326-F797A7E2C6AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B361E7FF-EC07-42FE-8326-F797A7E2C6AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B361E7FF-EC07-42FE-8326-F797A7E2C6AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DAAB8B2-763C-45D4-8C1D-856DFB084F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAAB8B2-763C-45D4-8C1D-856DFB084F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAAB8B2-763C-45D4-8C1D-856DFB084F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAAB8B2-763C-45D4-8C1D-856DFB084F8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -551,6 +557,7 @@ Global
 		{CF5356D1-F55A-4840-9E19-C5D18F460D3E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{E2462090-BDEC-41F2-901B-52C8654B047C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{B361E7FF-EC07-42FE-8326-F797A7E2C6AC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{5DAAB8B2-763C-45D4-8C1D-856DFB084F8E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2C805F7A-B644-4CD6-B75F-32A44C89DF02}
